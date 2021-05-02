@@ -2,10 +2,15 @@ body
 {
 text-align: center;
 background-color:darkblue;
-color: aquamarine;
+color: ghostwhite;
 }
 img
 {
 height: 500px;
 width: 80%;
+}
+.whatsNew_li
+{
+height:auto;
+border-radius:30px;
 }
